@@ -1,5 +1,5 @@
 # ToLinkToGit
-How to link an already existing project in Rstudio with Git\
+How to link new project in Rstudio with Git\
 1)Create a normal project in Rstudio (example :named as 'ToLinkToGit')\
 2)Open bash in this project folder\
 3)git init   ====>this initialises our project directory as a git repo\
